@@ -1,0 +1,4 @@
+#######
+## ignore dotenv (.env)
+.env
+
